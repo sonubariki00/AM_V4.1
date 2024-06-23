@@ -1,0 +1,136 @@
+2024-06-21 11:30:38,325 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-21 11:30:38,325 INFO [33mPress CTRL+C to quit[0m
+2024-06-21 11:30:38,328 INFO  * Restarting with stat
+2024-06-21 11:30:38,451 WARNING  * Debugger is active!
+2024-06-21 11:30:38,463 INFO  * Debugger PIN: 169-277-652
+2024-06-21 11:30:53,748 INFO 127.0.0.1 - - [21/Jun/2024 11:30:53] "[35m[1mPOST /api/login HTTP/1.1[0m" 500 -
+2024-06-21 11:31:07,657 INFO 127.0.0.1 - - [21/Jun/2024 11:31:07] "[35m[1mPOST /api/login HTTP/1.1[0m" 500 -
+2024-06-21 11:31:20,373 INFO 127.0.0.1 - - [21/Jun/2024 11:31:20] "[35m[1mPOST /api/login HTTP/1.1[0m" 500 -
+2024-06-21 11:35:39,502 INFO  * Detected change in '/Users/SO20463188/PycharmProjects/Lichen/AssetMT_V4/frontend.py', reloading
+2024-06-21 11:35:39,528 INFO  * Restarting with stat
+2024-06-21 11:35:39,732 WARNING  * Debugger is active!
+2024-06-21 11:35:39,751 INFO  * Debugger PIN: 169-277-652
+2024-06-21 11:36:32,870 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-21 11:36:32,870 INFO [33mPress CTRL+C to quit[0m
+2024-06-21 11:36:32,873 INFO  * Restarting with stat
+2024-06-21 11:36:32,979 WARNING  * Debugger is active!
+2024-06-21 11:36:32,990 INFO  * Debugger PIN: 169-277-652
+2024-06-21 11:36:47,818 INFO 127.0.0.1 - - [21/Jun/2024 11:36:47] "[35m[1mPOST /api/login HTTP/1.1[0m" 500 -
+2024-06-21 11:38:18,251 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-21 11:38:18,251 INFO [33mPress CTRL+C to quit[0m
+2024-06-21 11:38:18,255 INFO  * Restarting with stat
+2024-06-21 11:38:18,358 WARNING  * Debugger is active!
+2024-06-21 11:38:18,370 INFO  * Debugger PIN: 169-277-652
+2024-06-21 11:38:37,152 INFO 127.0.0.1 - - [21/Jun/2024 11:38:37] "[35m[1mPOST /api/login HTTP/1.1[0m" 500 -
+2024-06-21 11:40:01,394 INFO  * Detected change in '/Users/SO20463188/PycharmProjects/Lichen/AssetMT_V4/app.py', reloading
+2024-06-21 11:40:01,438 INFO  * Restarting with stat
+2024-06-21 11:40:01,717 WARNING  * Debugger is active!
+2024-06-21 11:40:01,731 INFO  * Debugger PIN: 169-277-652
+2024-06-21 11:42:23,129 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-21 11:42:23,129 INFO [33mPress CTRL+C to quit[0m
+2024-06-21 11:42:23,134 INFO  * Restarting with stat
+2024-06-21 11:42:23,239 WARNING  * Debugger is active!
+2024-06-21 11:42:23,251 INFO  * Debugger PIN: 169-277-652
+2024-06-21 11:42:37,762 INFO 127.0.0.1 - - [21/Jun/2024 11:42:37] "[35m[1mPOST /api/login HTTP/1.1[0m" 500 -
+2024-06-21 11:43:51,103 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-21 11:43:51,103 INFO [33mPress CTRL+C to quit[0m
+2024-06-21 11:43:51,108 INFO  * Restarting with stat
+2024-06-21 11:43:51,234 WARNING  * Debugger is active!
+2024-06-21 11:43:51,244 INFO  * Debugger PIN: 169-277-652
+2024-06-21 11:44:05,265 INFO 127.0.0.1 - - [21/Jun/2024 11:44:05] "[35m[1mPOST /api/login HTTP/1.1[0m" 500 -
+2024-06-21 11:44:51,419 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-21 11:44:51,419 INFO [33mPress CTRL+C to quit[0m
+2024-06-21 11:44:51,423 INFO  * Restarting with stat
+2024-06-21 11:44:51,531 WARNING  * Debugger is active!
+2024-06-21 11:44:51,542 INFO  * Debugger PIN: 169-277-652
+2024-06-21 11:45:18,851 INFO 127.0.0.1 - - [21/Jun/2024 11:45:18] "[35m[1mPOST /api/login HTTP/1.1[0m" 500 -
+2024-06-21 11:46:45,453 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-21 11:46:45,453 INFO [33mPress CTRL+C to quit[0m
+2024-06-21 11:46:45,457 INFO  * Restarting with stat
+2024-06-21 11:46:45,563 WARNING  * Debugger is active!
+2024-06-21 11:46:45,573 INFO  * Debugger PIN: 169-277-652
+2024-06-21 11:46:57,912 INFO 127.0.0.1 - - [21/Jun/2024 11:46:57] "[35m[1mPOST /api/login HTTP/1.1[0m" 500 -
+2024-06-21 11:53:18,546 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-21 11:53:18,546 INFO [33mPress CTRL+C to quit[0m
+2024-06-21 11:53:18,550 INFO  * Restarting with stat
+2024-06-21 11:53:18,657 WARNING  * Debugger is active!
+2024-06-21 11:53:18,669 INFO  * Debugger PIN: 169-277-652
+2024-06-21 11:53:33,673 INFO 127.0.0.1 - - [21/Jun/2024 11:53:33] "[35m[1mPOST /api/login HTTP/1.1[0m" 500 -
+2024-06-21 11:57:24,068 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-21 11:57:24,068 INFO [33mPress CTRL+C to quit[0m
+2024-06-21 11:57:24,074 INFO  * Restarting with stat
+2024-06-21 11:57:24,206 WARNING  * Debugger is active!
+2024-06-21 11:57:24,227 INFO  * Debugger PIN: 169-277-652
+2024-06-21 11:57:41,312 INFO 127.0.0.1 - - [21/Jun/2024 11:57:41] "[35m[1mPOST /api/login HTTP/1.1[0m" 500 -
+2024-06-21 11:58:11,476 INFO 127.0.0.1 - - [21/Jun/2024 11:58:11] "[35m[1mPOST /api/login HTTP/1.1[0m" 500 -
+2024-06-21 12:02:27,652 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-21 12:02:27,652 INFO [33mPress CTRL+C to quit[0m
+2024-06-21 12:02:27,656 INFO  * Restarting with stat
+2024-06-21 12:02:27,768 WARNING  * Debugger is active!
+2024-06-21 12:02:27,780 INFO  * Debugger PIN: 169-277-652
+2024-06-21 12:02:42,712 INFO 127.0.0.1 - - [21/Jun/2024 12:02:42] "[35m[1mPOST /api/login HTTP/1.1[0m" 500 -
+2024-06-21 12:03:36,491 INFO  * Detected change in '/Users/SO20463188/PycharmProjects/Lichen/AssetMT_V4/app.py', reloading
+2024-06-21 12:03:36,541 INFO  * Restarting with stat
+2024-06-21 12:03:36,819 WARNING  * Debugger is active!
+2024-06-21 12:03:36,831 INFO  * Debugger PIN: 169-277-652
+2024-06-21 12:07:30,442 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-21 12:07:30,442 INFO [33mPress CTRL+C to quit[0m
+2024-06-21 12:07:30,459 INFO  * Restarting with stat
+2024-06-21 12:07:30,564 WARNING  * Debugger is active!
+2024-06-21 12:07:30,577 INFO  * Debugger PIN: 169-277-652
+2024-06-21 12:07:43,305 INFO 127.0.0.1 - - [21/Jun/2024 12:07:43] "POST /api/login HTTP/1.1" 200 -
+2024-06-21 12:07:43,355 INFO 127.0.0.1 - - [21/Jun/2024 12:07:43] "GET /api/assets HTTP/1.1" 200 -
+2024-06-21 12:07:43,357 INFO 127.0.0.1 - - [21/Jun/2024 12:07:43] "GET /api/employees HTTP/1.1" 200 -
+2024-06-21 12:07:43,359 INFO 127.0.0.1 - - [21/Jun/2024 12:07:43] "GET /api/assets HTTP/1.1" 200 -
+2024-06-21 12:07:45,921 INFO 127.0.0.1 - - [21/Jun/2024 12:07:45] "GET /api/requests/log HTTP/1.1" 200 -
+2024-06-21 12:07:47,005 INFO 127.0.0.1 - - [21/Jun/2024 12:07:47] "GET /api/requests/log HTTP/1.1" 200 -
+2024-06-21 12:07:47,553 INFO 127.0.0.1 - - [21/Jun/2024 12:07:47] "GET /api/requests/log HTTP/1.1" 200 -
+2024-06-21 12:07:55,952 INFO 127.0.0.1 - - [21/Jun/2024 12:07:55] "[35m[1mPOST /api/requests HTTP/1.1[0m" 201 -
+2024-06-21 12:10:49,445 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-21 12:10:49,445 INFO [33mPress CTRL+C to quit[0m
+2024-06-21 12:10:49,450 INFO  * Restarting with stat
+2024-06-21 12:10:49,558 WARNING  * Debugger is active!
+2024-06-21 12:10:49,569 INFO  * Debugger PIN: 169-277-652
+2024-06-21 12:11:01,559 INFO 127.0.0.1 - - [21/Jun/2024 12:11:01] "POST /api/login HTTP/1.1" 200 -
+2024-06-21 12:11:01,618 INFO 127.0.0.1 - - [21/Jun/2024 12:11:01] "GET /api/assets HTTP/1.1" 200 -
+2024-06-21 12:11:01,620 INFO 127.0.0.1 - - [21/Jun/2024 12:11:01] "GET /api/employees HTTP/1.1" 200 -
+2024-06-21 12:11:01,621 INFO 127.0.0.1 - - [21/Jun/2024 12:11:01] "GET /api/assets HTTP/1.1" 200 -
+2024-06-21 12:11:08,066 INFO 127.0.0.1 - - [21/Jun/2024 12:11:08] "[35m[1mPOST /api/requests HTTP/1.1[0m" 201 -
+2024-06-21 12:12:56,144 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-21 12:12:56,144 INFO [33mPress CTRL+C to quit[0m
+2024-06-21 12:12:56,149 INFO  * Restarting with stat
+2024-06-21 12:12:56,252 WARNING  * Debugger is active!
+2024-06-21 12:12:56,263 INFO  * Debugger PIN: 169-277-652
+2024-06-21 12:13:09,344 INFO 127.0.0.1 - - [21/Jun/2024 12:13:09] "[33mGET /api/?%20auth=('admin',%20'admin123') HTTP/1.1[0m" 404 -
+2024-06-21 12:13:09,401 INFO 127.0.0.1 - - [21/Jun/2024 12:13:09] "GET /api/assets HTTP/1.1" 200 -
+2024-06-21 12:13:09,404 INFO 127.0.0.1 - - [21/Jun/2024 12:13:09] "GET /api/employees HTTP/1.1" 200 -
+2024-06-21 12:13:09,406 INFO 127.0.0.1 - - [21/Jun/2024 12:13:09] "GET /api/assets HTTP/1.1" 200 -
+2024-06-21 12:13:15,203 INFO 127.0.0.1 - - [21/Jun/2024 12:13:15] "[35m[1mPOST /api/requests HTTP/1.1[0m" 201 -
+2024-06-21 16:53:45,330 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-21 16:53:45,331 INFO [33mPress CTRL+C to quit[0m
+2024-06-21 16:53:45,336 INFO  * Restarting with stat
+2024-06-21 16:53:45,439 WARNING  * Debugger is active!
+2024-06-21 16:53:45,451 INFO  * Debugger PIN: 169-277-652
+2024-06-21 16:53:59,385 INFO 127.0.0.1 - - [21/Jun/2024 16:53:59] "[33mGET /api/?%20auth=('admin',%20'admin123') HTTP/1.1[0m" 404 -
+2024-06-21 16:53:59,434 INFO 127.0.0.1 - - [21/Jun/2024 16:53:59] "GET /api/assets HTTP/1.1" 200 -
+2024-06-21 16:53:59,436 INFO 127.0.0.1 - - [21/Jun/2024 16:53:59] "GET /api/employees HTTP/1.1" 200 -
+2024-06-21 16:53:59,438 INFO 127.0.0.1 - - [21/Jun/2024 16:53:59] "GET /api/assets HTTP/1.1" 200 -
+2024-06-21 16:54:07,437 INFO 127.0.0.1 - - [21/Jun/2024 16:54:07] "[35m[1mPOST /api/requests HTTP/1.1[0m" 201 -
+2024-06-21 17:03:54,618 INFO  * Detected change in '/Users/SO20463188/PycharmProjects/Lichen/AssetMT_V4/frontend.py', reloading
+2024-06-21 17:03:54,643 INFO  * Restarting with stat
+2024-06-21 17:03:54,946 WARNING  * Debugger is active!
+2024-06-21 17:03:54,963 INFO  * Debugger PIN: 169-277-652

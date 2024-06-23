@@ -1,0 +1,97 @@
+{
+  "users": [
+    {
+      "id": "E001",
+      "name": "Alpha Prasad",
+      "email": ".com",
+      "password": "hashed_password_here",
+      "role": "employee"
+    },
+    {
+      "id": "A001",
+      "name": "Beta Kumar",
+      "email": "jane@example.com",
+      "password": "hashed_password_here",
+      "role": "admin"
+    }
+  ],
+  "assets": [
+    {
+      "id": "AS001",
+      "name": "Laptop",
+      "status": "available",
+      "assigned_to": null
+    },
+    {
+      "id": "AS002",
+      "name": "Projector",
+      "status": "assigned",
+      "assigned_to": "E001"
+    }
+  ],
+  "requests": [
+    {
+      "id": "R001",
+      "employee_id": "E001",
+      "asset_id": "AS001",
+      "status": "pending",
+      "request_date": "2024-06-23T10:00:00Z"
+    }
+  ],
+  "logs": [
+    {
+      "id": "L001",
+      "type": "frontend",
+      "message": "User E001 logged in",
+      "timestamp": "2024-06-23T10:05:00Z"
+    },
+    {
+      "id": "L002",
+      "type": "backend",
+      "message": "Asset AS002 assigned to E001",
+      "timestamp": "2024-06-23T11:30:00Z"
+    }
+  ]
+}
+
+{
+  "users": [
+    {
+      "id": "E001",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "hashed_password_here",
+      "role": "employee"
+    },
+    {
+      "id": "A001",
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "password": "hashed_password_here",
+      "role": "admin"
+    }
+  ],
+  "assets": [
+    {
+      "id": "AS001",
+      "name": "Laptop",
+      "status": "available",
+      "assigned_to": null
+    },
+    {
+      "id": "AS002",
+      "name": "Projector",
+      "status": "assigned",
+      "assigned_to": "E001"
+    }
+  ],
+  "requests": [
+    {
+      "id": "R001",
+      "employee_id": "E001",
+      "asset_id": "AS001",
+      "status": "pending",
+      "request_date": "2024-06-23T10:00:00Z"
+    }
+  ]
+}

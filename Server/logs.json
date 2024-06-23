@@ -1,0 +1,18 @@
+[
+  {
+    "id": "L001",
+    "timestamp": "2024-06-23T10:05:00Z",
+    "level": "INFO",
+    "component": "authentication",
+    "message": "User E001 logged in",
+    "user_id": "E001"
+  },
+  {
+    "id": "L002",
+    "timestamp": "2024-06-23T10:10:15Z",
+    "level": "ERROR",
+    "component": "asset_management",
+    "message": "Failed to assign asset AS003 to user E002",
+    "user_id": "A001"
+  }
+]

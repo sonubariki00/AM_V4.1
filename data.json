@@ -1,0 +1,128 @@
+{
+    "assets": [
+        {
+            "asset_id": "A001",
+            "name": "Laptop",
+            "model": "Dell XPS 15"
+        },
+        {
+            "asset_id": "A002",
+            "name": "Monitor",
+            "model": "HP 27f"
+        }
+    ],
+    "employees": [
+        {
+            "employee_id": "E001",
+            "first_name": "Alpha",
+            "last_name": "Kumar"
+        },
+        {
+            "employee_id": "E002",
+            "first_name": "Beta",
+            "last_name": "Prasad"
+        }
+    ],
+    "users": {
+        "admin": {
+            "password": "admin123",
+            "role": "admin"
+        },
+        "user": {
+            "password": "user123",
+            "role": "user"
+        }
+    },
+    "asset_requests": [
+        {
+            "asset_id": "A001",
+            "employee_id": "E001",
+            "status": "pending",
+            "request_id": 1
+        },
+        {
+            "asset_id": "A002",
+            "employee_id": "E002",
+            "status": "pending",
+            "request_id": 2
+        },
+        {
+            "asset_id": "A002",
+            "employee_id": "E002",
+            "status": "pending",
+            "request_id": 3
+        },
+        {
+            "asset_id": "A001",
+            "employee_id": "E001",
+            "status": "pending",
+            "request_id": 4
+        },
+        {
+            "asset_id": "A002",
+            "employee_id": "E001",
+            "status": "pending",
+            "request_id": 5
+        },
+        {
+            "asset_id": "A001",
+            "employee_id": "E001",
+            "status": "pending",
+            "request_id": 6
+        },
+        {
+            "asset_id": "A001",
+            "employee_id": "E001",
+            "status": "pending",
+            "request_id": 7
+        },
+        {
+            "asset_id": "A002",
+            "employee_id": "E001",
+            "status": "pending",
+            "request_id": 8
+        },
+        {
+            "asset_id": "A002",
+            "employee_id": "E002",
+            "status": "pending",
+            "request_id": 9
+        },
+        {
+            "asset_id": "A001",
+            "employee_id": "E002",
+            "status": "pending",
+            "request_id": 10
+        },
+        {
+            "asset_id": "A002",
+            "employee_id": "E002",
+            "status": "pending",
+            "request_id": 11
+        },
+        {
+            "asset_id": "A002",
+            "employee_id": "E001",
+            "status": "pending",
+            "request_id": 12
+        },
+        {
+            "asset_id": "A002",
+            "employee_id": "E001",
+            "status": "pending",
+            "request_id": 13
+        },
+        {
+            "asset_id": "A002",
+            "employee_id": "E002",
+            "status": "pending",
+            "request_id": 14
+        },
+        {
+            "asset_id": "A001",
+            "employee_id": "E002",
+            "status": "pending",
+            "request_id": 15
+        }
+    ]
+}
